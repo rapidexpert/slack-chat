@@ -3,6 +3,12 @@ Slack-Chat is a jQuery plugin that integrates a support chat system with your we
 
 When users send a message, it will show up as a chat in the Channel specified by you.
 
+### Installing On Heroku
+
+You can deploy your own copy to Heroku with one click using this button:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ### Changelog
 
 v1.5.4 
